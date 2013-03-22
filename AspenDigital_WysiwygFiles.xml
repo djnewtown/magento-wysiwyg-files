@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <AspenDigital_WysiwygFiles>
+      <active>true</active>
+      <codePool>local</codePool>
+    </AspenDigital_WysiwygFiles>
+  </modules>
+</config>
