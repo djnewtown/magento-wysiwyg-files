@@ -1,13 +1,13 @@
 {
-  "name":"infabo/magento-wysiwyg-files",
+  "name":"djnewtown/magento-wysiwyg-files",
   "type":"magento-module",
   "license":"GPLv3",
-  "homepage":"https://github.com/infabo/magento-wysiwyg-files",
+  "homepage":"https://github.com/djnewtown/magento-wysiwyg-files",
   "description":"A simple extension for allowing additional file formats to be uploaded with the Magento WYSIWYG uploader",
   "authors": [
     {
-      "name": "Ingo Fabbri",
-      "email": "if@newtown.at",
+      "name": "Daniel Janin",
+      "email": "dj@newtown.at",
       "role": "Author/Maintainer"
     }
   ],
